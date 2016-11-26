@@ -1,0 +1,16 @@
+{
+	"category" : "Exceptions-Analysis",
+	"classinstvars" : [
+		"standardExceptions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"catchClauses",
+		"throwStatements",
+		"modelExceptions" ],
+	"name" : "JavaExceptionVisitor",
+	"pools" : [
+		 ],
+	"super" : "JavaProgramNodeVisitor",
+	"type" : "normal" }

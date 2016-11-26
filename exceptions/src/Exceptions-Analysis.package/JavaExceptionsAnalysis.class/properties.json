@@ -1,0 +1,17 @@
+{
+	"category" : "Exceptions-Analysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootFolder",
+		"visitor",
+		"result",
+		"projectJavaFileNames" ],
+	"name" : "JavaExceptionsAnalysis",
+	"pools" : [
+		 ],
+	"super" : "JavaProgramNodeVisitor",
+	"type" : "normal" }
